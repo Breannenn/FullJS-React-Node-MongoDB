@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-js",
+  "version": "1.0.0",
+  "description": "This is an experimental attempt at making a fullstack js solution using node, react and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breannenn/FullJS-React-Node-MongoDB.git"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "MongoDB",
+    "FullStack"
+  ],
+  "author": "Brendan Brading",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Breannenn/FullJS-React-Node-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Breannenn/FullJS-React-Node-MongoDB#readme"
+}
